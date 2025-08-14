@@ -2,3 +2,6 @@ Aquí viene tu diario
 
 
 Primera funcionalidad
+
+
+Segunda funcionalidad
